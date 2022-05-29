@@ -18,8 +18,6 @@ const int echo  = 9;
 const int serv  = 10;
 int pos         = 90;
 
-// Variable Speed Motor Pins
-// TODO
 
 void setup(){
   Serial.begin(9600);
